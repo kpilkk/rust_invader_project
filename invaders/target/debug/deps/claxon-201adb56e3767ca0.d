@@ -1,0 +1,13 @@
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\claxon-201adb56e3767ca0.rmeta: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\crc.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\error.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\frame.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\input.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\metadata.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\subframe.rs
+
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\libclaxon-201adb56e3767ca0.rlib: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\crc.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\error.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\frame.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\input.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\metadata.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\subframe.rs
+
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\claxon-201adb56e3767ca0.d: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\crc.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\error.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\frame.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\input.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\metadata.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\subframe.rs
+
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\lib.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\crc.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\error.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\frame.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\input.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\metadata.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\claxon-0.4.3\src\subframe.rs:

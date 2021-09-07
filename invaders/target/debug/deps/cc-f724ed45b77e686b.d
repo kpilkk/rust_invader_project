@@ -1,0 +1,13 @@
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\cc-f724ed45b77e686b.rmeta: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\registry.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\winapi.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\com.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\setup_config.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\vs_instances.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\windows_registry.rs
+
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\libcc-f724ed45b77e686b.rlib: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\registry.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\winapi.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\com.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\setup_config.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\vs_instances.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\windows_registry.rs
+
+E:\Git\Rust_Invader_Project\invaders\target\debug\deps\cc-f724ed45b77e686b.d: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\registry.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\winapi.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\com.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\setup_config.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\vs_instances.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\windows_registry.rs
+
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\lib.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\registry.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\winapi.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\com.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\setup_config.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\vs_instances.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.70\src\windows_registry.rs:

@@ -1,0 +1,12 @@
+E:\Git\Rust_Invader_Project\invaders\target\release\deps\thiserror_impl-6b3a6e472e42e37b.dll: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\ast.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\attr.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\expand.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\fmt.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\generics.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\prop.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\valid.rs
+
+E:\Git\Rust_Invader_Project\invaders\target\release\deps\thiserror_impl-6b3a6e472e42e37b.d: C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\lib.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\ast.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\attr.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\expand.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\fmt.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\generics.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\prop.rs C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\valid.rs
+
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\lib.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\ast.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\attr.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\expand.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\fmt.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\generics.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\prop.rs:
+C:\Users\kapil\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.29\src\valid.rs:
