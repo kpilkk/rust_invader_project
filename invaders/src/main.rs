@@ -1,3 +1,4 @@
+use std::time::Instant;
 use invaders::player::Player;
 use std::time::Duration;
 use crossterm::terminal::LeaveAlternateScreen;
@@ -48,8 +49,11 @@ fn main() -> Result <(), Box<dyn Error>>{
     });
     // Game loop
     let mut player = Player::new();
+    let mut instant = Instant::now();
     'gameloop: loop {
         // Per-frame init
+        let delta = instant.elapsed();
+        instant = Instant::now();
         let mut cur_frame = frame::new_frame();
 
         // Input
@@ -58,6 +62,11 @@ fn main() -> Result <(), Box<dyn Error>>{
                 match key_event.code{
                     KeyCode::Left => player.move_left(),
                     KeyCode::Right => player.move_right(),
+                    KeyCode::Char(' ') | KeyCode::Enter => {
+                        if player.shoot() {
+                            audio.play("pew");
+                        }
+                    }
                     KeyCode::Esc | KeyCode::Char('q') => {
                         audio.play("lose");
                         break 'gameloop
@@ -67,6 +76,8 @@ fn main() -> Result <(), Box<dyn Error>>{
             }
         }
 
+        // Updates
+        player.update(delta);
         // Draw and render
         player.draw(&mut cur_frame);
         let _ = render_tx.send(cur_frame);
