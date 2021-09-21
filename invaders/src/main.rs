@@ -1,3 +1,4 @@
+use invaders::invaders::Invaders;
 use std::time::Instant;
 use invaders::player::Player;
 use std::time::Duration;
@@ -50,6 +51,7 @@ fn main() -> Result <(), Box<dyn Error>>{
     // Game loop
     let mut player = Player::new();
     let mut instant = Instant::now();
+    let mut invaders = Invaders::new();
     'gameloop: loop {
         // Per-frame init
         let delta = instant.elapsed();
@@ -78,8 +80,17 @@ fn main() -> Result <(), Box<dyn Error>>{
 
         // Updates
         player.update(delta);
+        if invaders.update(delta){
+            audio.play("move");
+        }
+
         // Draw and render
-        player.draw(&mut cur_frame);
+        // player.draw(&mut cur_frame);
+        // invaders.draw(&mut cur_frame);
+        let drawables: Vec<&dyn Drawable> = vec![&player, &invaders];
+        for drawable in drawables{
+            drawable.draw(&mut cur_frame);
+        }
         let _ = render_tx.send(cur_frame);
         thread::sleep(Duration::from_millis(1));
     }
